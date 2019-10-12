@@ -1,3 +1,3 @@
 # Tower-Defense-Ultra
 The Github repository for everything related to UTD, a community-based Tower Defense Board Game.
-![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)
+![License](https://licensebuttons.net/p/zero/1.0/80x15.png)
