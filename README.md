@@ -1,5 +1,5 @@
 # Tower-Defense-Ultra
-0.1.2
+0.1.3 Base
 
 The Github repository for everything related to TDU, a community-based Tower Defense Board Game.
 
