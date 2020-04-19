@@ -1,6 +1,6 @@
 # Security Policy
 
-## Last Four Versions Suppported
+## Last Four Versions Supported
 
 ## Reporting a Vulnerability
-Post this under the 'Security' tab, AFTER you have ran it past the user who created the dependancy.
+Post this under the 'Security' tab, AFTER you have notified me privately.

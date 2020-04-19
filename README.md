@@ -1,7 +1,7 @@
 # Tower-Defense-Ultra
 0.1.4 Base
 
-The Github repository for everything related to TDU, a community-based Tower Defense Board Game.
+The GitHub repository for everything related to TDU, a community-based Tower Defense Board Game.
 
 ## How do you use?
 Download to your computer.
